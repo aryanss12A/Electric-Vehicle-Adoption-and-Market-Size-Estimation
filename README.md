@@ -97,5 +97,5 @@ This bar chart illustrates the leading electric vehicle (EV) manufacturers by th
 4.Battery ranges are steadily improving
 5.Future outlook: ⚡️ Massive growth expected
 
-
+🌟 Like this project? Give it a star! Your support inspires me to build more insightful and data-driven projects
 
