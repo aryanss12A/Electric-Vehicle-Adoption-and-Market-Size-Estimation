@@ -22,6 +22,7 @@ This project analyzes the growth, distribution, and performance of Electric Vehi
 🚀 Project Motivation
 💡 Motivation
 Electric Vehicles are at the forefront of sustainable transportation. This project explores how the EV market has evolved over time, which regions lead in adoption, and which models dominate — providing data-backed insights for businesses, researchers, and policymakers.
+
 📉 Challenges Faced
  ⚠️ Challenges Faced
 - Handling highly skewed electric range data.
